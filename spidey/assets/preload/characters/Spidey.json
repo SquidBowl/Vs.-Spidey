@@ -1,70 +1,70 @@
 {
 	"animations": [
 		{
-			"loop": true,
 			"offsets": [
 				-48,
 				-80
 			],
-			"anim": "idle",
+			"loop": true,
 			"fps": 24,
-			"name": "Spidey idle",
-			"indices": []
+			"anim": "idle",
+			"indices": [],
+			"name": "Spidey idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				54,
 				-126
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "Spidey LEFT",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Spidey LEFT"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-82,
 				-152
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "Spidey DOWN",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Spidey DOWN"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				43,
 				-38
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "Spidey UP",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "Spidey UP"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-108,
 				-104
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "Spidey RIGHT",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Spidey RIGHT"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				34,
 				-62
 			],
-			"anim": "Hey",
+			"loop": false,
 			"fps": 24,
-			"name": "Spidey HEY",
-			"indices": []
+			"anim": "Hey",
+			"indices": [],
+			"name": "Spidey HEY"
 		}
 	],
 	"no_antialiasing": false,
@@ -73,7 +73,7 @@
 		0,
 		-50
 	],
-	"healthicon": "Spidernew",
+	"healthicon": "spidey",
 	"flip_x": false,
 	"healthbar_colors": [
 		255,

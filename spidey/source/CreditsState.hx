@@ -86,6 +86,7 @@ class CreditsState extends MusicBeatState
 			['SquidBowl',		'SquidBowl',		'Programmer',														'https://squidbowl.carrd.co/',		'4E385B'],
 			['SNAP',			'SNAP',				'Charter',															'https://twitter.com/snapple_snap',	'71BD7A'],
 			['slonkyguts',		'slonkyguts',		'Artist/Animator',													'https://slonkyguts.newgrounds.com/','71BD7A'],
+			['bunbunbwunnzy',	'bunbunbwunnzy',	'Artist/Animator',													'https://linktr.ee/bunbunbwunnzy',	'A200FF'],
 
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',								'https://twitter.com/Shadow_Mario_',	'444444'],
