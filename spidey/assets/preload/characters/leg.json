@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				30,
+				-182
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Floof idle"
+		},
+		{
+			"offsets": [
+				100,
+				-143
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Floof left"
+		},
+		{
+			"offsets": [
+				-50,
+				-186
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Floof right"
+		},
+		{
+			"offsets": [
+				100,
+				-260
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Floof down"
+		},
+		{
+			"offsets": [
+				-26,
+				-169
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Floof up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Floof_assets",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "leg",
+	"flip_x": false,
+	"healthbar_colors": [
+		180,
+		180,
+		180
+	],
+	"camera_position": [
+		20,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

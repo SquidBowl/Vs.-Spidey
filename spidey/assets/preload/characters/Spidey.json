@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-48,
+				-80
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Spidey idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				-126
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Spidey LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-82,
+				-152
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Spidey DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				-38
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Spidey UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-108,
+				-104
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Spidey RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				34,
+				-62
+			],
+			"anim": "Hey",
+			"fps": 24,
+			"name": "Spidey HEY",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Spidey_assets",
+	"position": [
+		0,
+		-50
+	],
+	"healthicon": "Spidernew",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		154,
+		188
+	],
+	"camera_position": [
+		200,
+		200
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
