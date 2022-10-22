@@ -82,12 +82,17 @@ class CreditsState extends MusicBeatState
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
 			['Vs. Spidey Dev Team'],
-			['filiazpink',		'filiazpink',		'Director/VA/Artist/Animator/Writer',								'https://filiazpink.carrd.co/',		'F44BA7'],
-			['SquidBowl',		'SquidBowl',		'Programmer',														'https://squidbowl.carrd.co/',		'4E385B'],
-			['SNAP',			'SNAP',				'Charter',															'https://twitter.com/snapple_snap',	'71BD7A'],
-			['slonkyguts',		'slonkyguts',		'Artist/Animator',													'https://slonkyguts.newgrounds.com/','71BD7A'],
-			['bunbunbwunnzy',	'bunbunbwunnzy',	'Artist/Animator',													'https://linktr.ee/bunbunbwunnzy',	'A200FF'],
-
+			['filiazpink',		'filiazpink',		'Director/VA/Artist/Animator/Writer',								'https://filiazpink.carrd.co/',			'F44BA7'],
+			['SquidBowl',		'SquidBowl',		'Programmer',														'https://squidbowl.carrd.co/',			'FF0097'],
+			['SNAP',			'SNAP',				'Charter',															'https://twitter.com/snapple_snap',		'71BD7A'],
+			['slonkyguts',		'slonkyguts',		'Artist/Animator',													'https://slonkyguts.newgrounds.com/',	'F82E20'],
+			['bunbunbwunnzy',	'bunbunbwunnzy',	'Artist/Animator',													'https://linktr.ee/bunbunbwunnzy',		'A200FF'],
+			['COG',				'cog',				'Artist/Animator',													'https://linktr.ee/princekittz',		'FBB7CD'],
+			['strawuwus',		'cy',				'Artist/Animator',													'https://www.instagram.com/strawuwus/',	'FD5EAE'],
+			['Spaghettioz',		'Spaghettioz',		'Artist/Animator',													'https://twitter.com/Spaghettioz3',		'FF5475'],
+			['Ghosterstrudel',	'ghosterstrudel',	'Artist/Animator',													'https://instagram.com/ghoster.strudel?igshid=YmMyMTA2M2Y=',		'008B5F'],
+			['Zay_Sama',		'Zay_Sama',			'Artist',															'https://twitter.com/Zaye_Chan',		'6425E9'],
+			['???',				'nothing',			'???',																'https://docs.google.com/document/d/10ZHRZm23SMI_RUVcDqlMGK8LA5x_68ttzGKZbazm-pM/edit?usp=sharing',	'A200FF'],
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',								'https://twitter.com/Shadow_Mario_',	'444444'],
 			['RiverOaken',			'river',			'Main Artist/Animator of Psych Engine',							'https://twitter.com/RiverOaken',		'B42F71'],

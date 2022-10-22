@@ -102,11 +102,11 @@ class MainMenuState extends MusicBeatState
 		add(camFollow);
 		add(camFollowPos);
 
-		magenta = new FlxSprite(-80).loadGraphic(Paths.image(''));
+		magenta = new FlxSprite(-80).loadGraphic(Paths.image('nothing'));
 		magenta.scrollFactor.set(0, yScroll);
 		magenta.setGraphicSize(Std.int(magenta.width * 1.175));
 		magenta.updateHitbox();
-		magenta.screenCenter();
+		magenta.screenCenter(X);
 		magenta.visible = false;
 		magenta.antialiasing = ClientPrefs.globalAntialiasing;
 		magenta.color = 0xFFFFFF;
@@ -279,7 +279,7 @@ class MainMenuState extends MusicBeatState
 
 		menuItems.forEach(function(spr:FlxSprite)
 		{
-
+			//spr.screenCenter(X);
 		});
 	}
 

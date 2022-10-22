@@ -1,50 +1,50 @@
 {
-	"songs": [
-		[
-			"rose",
-			"dad",
-			[
-				146,
-				113,
-				253
-			]
-		],
-		[
-			"photo-bop",
-			"dad",
-			[
-				146,
-				113,
-				253
-			]
-		],
-		[
-			"hottie",
-			"dad",
-			[
-				146,
-				113,
-				253
-			]
-		]
-	],
-	"hiddenUntilUnlocked": false,
+	"storyName": "spidey showdown",
+	"difficulties": "",
 	"hideFreeplay": false,
 	"weekBackground": "spidey",
-	"difficulties": "",
-	"weekCharacters": [
-		"",
-		"",
-		""
-	],
-	"storyName": "spidey showdown",
-	"weekName": "spidey showdown",
+	"weekBefore": "tutorial",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
+	"startUnlocked": true,
 	"hideStoryMode": false,
-	"weekBefore": "tutorial",
-	"startUnlocked": true
+	"songs": [
+		[
+			"rose",
+			"spidey",
+			[
+				146,
+				40,
+				155
+			]
+		],
+		[
+			"photo-bop",
+			"spidey",
+			[
+				146,
+				40,
+				155
+			]
+		],
+		[
+			"hottie",
+			"spidey",
+			[
+				146,
+				40,
+				155
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "spidey showdown"
 }
