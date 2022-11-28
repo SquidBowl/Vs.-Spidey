@@ -1,6 +1,6 @@
 {
 	"songs": [
-		["Tutorial", "gf", [165, 0, 77]]
+		["prologue", "spidey", [165, 0, 77]]
 	],
 
 	"weekCharacters": [
@@ -11,8 +11,8 @@
 	"weekBackground": "stage",
 
 	"storyName": "",
-	"weekBefore": "tutorial",
-	"weekName": "Tutorial",
+	"weekBefore": "prologue]",
+	"weekName": "prologue",
 	"startUnlocked": true,
 
 	"hideStoryMode": false,

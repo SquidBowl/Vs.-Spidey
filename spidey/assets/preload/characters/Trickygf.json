@@ -1,68 +1,69 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
-				30
+				29
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "cheer",
-			"indices": [],
-			"name": "Tricky hey"
+			"fps": 24,
+			"name": "Tricky hey",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-1,
 				20
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Tricky LEFT"
+			"fps": 24,
+			"name": "Tricky LEFT",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				-20
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Tricky DOWN"
+			"fps": 24,
+			"name": "Tricky DOWN",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				40
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Tricky UP"
+			"fps": 24,
+			"name": "Tricky UP",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				11
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Tricky RIGHT"
+			"fps": 24,
+			"name": "Tricky RIGHT",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				15
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "danceLeft",
+			"fps": 24,
+			"name": "Tricky dancing beat",
 			"indices": [
 				30,
 				0,
@@ -80,17 +81,17 @@
 				12,
 				13,
 				14
-			],
-			"name": "Tricky dancing beat"
+			]
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				17
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "danceRight",
+			"fps": 24,
+			"name": "Tricky dancing beat",
 			"indices": [
 				15,
 				16,
@@ -107,8 +108,7 @@
 				27,
 				28,
 				29
-			],
-			"name": "Tricky dancing beat"
+			]
 		}
 	],
 	"no_antialiasing": false,
@@ -125,8 +125,8 @@
 		77
 	],
 	"camera_position": [
-		-150,
-		0
+		200,
+		50
 	],
 	"sing_duration": 4,
 	"scale": 1

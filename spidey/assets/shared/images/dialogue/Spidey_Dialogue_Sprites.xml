@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Spidey Dialogue Sprites.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SpideyD10000" x="0" y="0" width="707" height="741" frameX="-4" frameY="0" frameWidth="714" frameHeight="741"/>
+	<SubTexture name="SpideyD10001" x="0" y="0" width="707" height="741" frameX="-4" frameY="0" frameWidth="714" frameHeight="741"/>
+	<SubTexture name="SpideyD10002" x="707" y="0" width="708" height="738" frameX="-6" frameY="-3" frameWidth="714" frameHeight="741"/>
+	<SubTexture name="SpideyD10003" x="707" y="0" width="708" height="738" frameX="-6" frameY="-3" frameWidth="714" frameHeight="741"/>
+	<SubTexture name="SpideyD10004" x="1415" y="0" width="706" height="737" frameX="-1" frameY="-4" frameWidth="714" frameHeight="741"/>
+	<SubTexture name="SpideyD10005" x="1415" y="0" width="706" height="737" frameX="-1" frameY="-4" frameWidth="714" frameHeight="741"/>
+	<SubTexture name="SpideyD10006" x="2121" y="0" width="706" height="737" frameX="0" frameY="-4" frameWidth="714" frameHeight="741"/>
+	<SubTexture name="SpideyD10007" x="2121" y="0" width="706" height="737" frameX="0" frameY="-4" frameWidth="714" frameHeight="741"/>
+	<SubTexture name="SpideyD20000" x="2827" y="0" width="706" height="711" frameX="-12" frameY="-5" frameWidth="718" frameHeight="716"/>
+	<SubTexture name="SpideyD20001" x="2827" y="0" width="706" height="711" frameX="-12" frameY="-5" frameWidth="718" frameHeight="716"/>
+	<SubTexture name="SpideyD20002" x="0" y="741" width="706" height="713" frameX="-10" frameY="-3" frameWidth="718" frameHeight="716"/>
+	<SubTexture name="SpideyD20003" x="0" y="741" width="706" height="713" frameX="-10" frameY="-3" frameWidth="718" frameHeight="716"/>
+	<SubTexture name="SpideyD20004" x="706" y="741" width="704" height="716" frameX="0" frameY="0" frameWidth="718" frameHeight="716"/>
+	<SubTexture name="SpideyD20005" x="706" y="741" width="704" height="716" frameX="0" frameY="0" frameWidth="718" frameHeight="716"/>
+	<SubTexture name="SpideyD20006" x="1410" y="741" width="704" height="716" frameX="-1" frameY="0" frameWidth="718" frameHeight="716"/>
+	<SubTexture name="SpideyD20007" x="1410" y="741" width="704" height="716" frameX="-1" frameY="0" frameWidth="718" frameHeight="716"/>
+</TextureAtlas>

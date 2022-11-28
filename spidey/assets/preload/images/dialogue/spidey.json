@@ -1,0 +1,37 @@
+{
+	"position": [
+		-60,
+		-110
+	],
+	"dialogue_pos": "left",
+	"scale": 1,
+	"image": "Spidey_Dialogue_Sprites",
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "SpideyD1",
+			"loop_name": "SpideyD1"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk 2",
+			"idle_offsets": [
+				0,
+				-10
+			],
+			"loop_name": "SpideyD2",
+			"idle_name": "SpideyD2"
+		}
+	]
+}

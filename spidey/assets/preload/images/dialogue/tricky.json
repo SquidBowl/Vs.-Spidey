@@ -1,0 +1,37 @@
+{
+	"position": [
+		-200,
+		-150
+	],
+	"dialogue_pos": "center",
+	"scale": 1,
+	"image": "Tricky_Dialogue_Sprites",
+	"animations": [
+		{
+			"idle_offsets": [
+				-80,
+				0
+			],
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk",
+			"idle_name": "TCKD1",
+			"loop_name": "TCKD1"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "talk 2",
+			"idle_offsets": [
+				0,
+				-10
+			],
+			"loop_name": "TCKD2",
+			"idle_name": "TCKD2"
+		}
+	]
+}
