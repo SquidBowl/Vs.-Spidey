@@ -1,6 +1,6 @@
 {
 	"storyName": "spidey showdown",
-	"difficulties": "",
+	"difficulties": "hard",
 	"hideFreeplay": false,
 	"weekBackground": "spidey",
 	"weekBefore": "tutorial",
@@ -12,24 +12,6 @@
 	"startUnlocked": true,
 	"hideStoryMode": false,
 	"songs": [
-		[
-			"rose",
-			"spidey",
-			[
-				146,
-				40,
-				155
-			]
-		],
-		[
-			"photo-bop",
-			"spidey",
-			[
-				146,
-				40,
-				155
-			]
-		],
 		[
 			"hottie",
 			"spidey",

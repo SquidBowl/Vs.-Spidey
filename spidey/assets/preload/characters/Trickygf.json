@@ -1,69 +1,68 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				29
 			],
-			"anim": "cheer",
+			"loop": false,
 			"fps": 24,
-			"name": "Tricky hey",
-			"indices": []
+			"anim": "cheer",
+			"indices": [],
+			"name": "Tricky hey"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				-1,
 				20
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "Tricky LEFT",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Tricky LEFT"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				-20
 			],
-			"anim": "singDOWN",
+			"loop": false,
 			"fps": 24,
-			"name": "Tricky DOWN",
-			"indices": []
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Tricky DOWN"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				40
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "Tricky UP",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "Tricky UP"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				11
 			],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "Tricky RIGHT",
-			"indices": []
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Tricky RIGHT"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				15
 			],
-			"anim": "danceLeft",
+			"loop": false,
 			"fps": 24,
-			"name": "Tricky dancing beat",
+			"anim": "danceLeft",
 			"indices": [
 				30,
 				0,
@@ -81,17 +80,17 @@
 				12,
 				13,
 				14
-			]
+			],
+			"name": "Tricky dancing beat"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				17
 			],
-			"anim": "danceRight",
+			"loop": false,
 			"fps": 24,
-			"name": "Tricky dancing beat",
+			"anim": "danceRight",
 			"indices": [
 				15,
 				16,
@@ -108,7 +107,8 @@
 				27,
 				28,
 				29
-			]
+			],
+			"name": "Tricky dancing beat"
 		}
 	],
 	"no_antialiasing": false,
@@ -117,12 +117,12 @@
 		0,
 		0
 	],
-	"healthicon": "gf",
+	"healthicon": "tricky",
 	"flip_x": false,
 	"healthbar_colors": [
-		165,
-		0,
-		77
+		47,
+		160,
+		98
 	],
 	"camera_position": [
 		200,

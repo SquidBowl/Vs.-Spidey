@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="girlbounce2.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="girlbounce20000" x="100" y="100" width="989" height="1089" frameX="0" frameY="-19" frameWidth="989" frameHeight="1108"/>
+	<SubTexture name="girlbounce20001" x="100" y="100" width="989" height="1089" frameX="0" frameY="-19" frameWidth="989" frameHeight="1108"/>
+	<SubTexture name="girlbounce20002" x="1189" y="100" width="979" height="1094" frameX="-5" frameY="-14" frameWidth="989" frameHeight="1108"/>
+	<SubTexture name="girlbounce20003" x="1189" y="100" width="979" height="1094" frameX="-5" frameY="-14" frameWidth="989" frameHeight="1108"/>
+	<SubTexture name="girlbounce20004" x="2268" y="100" width="967" height="1100" frameX="-11" frameY="-8" frameWidth="989" frameHeight="1108"/>
+	<SubTexture name="girlbounce20005" x="2268" y="100" width="967" height="1100" frameX="-11" frameY="-8" frameWidth="989" frameHeight="1108"/>
+	<SubTexture name="girlbounce20006" x="100" y="1300" width="953" height="1104" frameX="-18" frameY="-4" frameWidth="989" frameHeight="1108"/>
+	<SubTexture name="girlbounce20007" x="100" y="1300" width="953" height="1104" frameX="-18" frameY="-4" frameWidth="989" frameHeight="1108"/>
+	<SubTexture name="girlbounce20008" x="1153" y="1300" width="941" height="1108" frameX="-24" frameY="0" frameWidth="989" frameHeight="1108"/>
+	<SubTexture name="girlbounce20009" x="1153" y="1300" width="941" height="1108" frameX="-24" frameY="0" frameWidth="989" frameHeight="1108"/>
+	<SubTexture name="girlbounce20010" x="1153" y="1300" width="941" height="1108" frameX="-24" frameY="0" frameWidth="989" frameHeight="1108"/>
+	<SubTexture name="girlbounce20011" x="1153" y="1300" width="941" height="1108" frameX="-24" frameY="0" frameWidth="989" frameHeight="1108"/>
+	<SubTexture name="girlbounce20012" x="1153" y="1300" width="941" height="1108" frameX="-24" frameY="0" frameWidth="989" frameHeight="1108"/>
+	<SubTexture name="girlbounce20013" x="1153" y="1300" width="941" height="1108" frameX="-24" frameY="0" frameWidth="989" frameHeight="1108"/>
+</TextureAtlas>

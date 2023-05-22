@@ -360,7 +360,6 @@ class TitleState extends MusicBeatState
 		
 		if (animFrames.length > 0) {
 			newTitle = true;
-			
 			titleText.animation.addByPrefix('idle', "ENTER IDLE", 24);
 			titleText.animation.addByPrefix('press', ClientPrefs.flashing ? "ENTER PRESSED" : "ENTER FREEZE", 24);
 		}
@@ -376,6 +375,8 @@ class TitleState extends MusicBeatState
 		titleText.updateHitbox();
 		// titleText.screenCenter(X);
 		add(titleText);
+		
+
 
 		var logo:FlxSprite = new FlxSprite().loadGraphic(Paths.image('logo'));
 		logo.screenCenter();

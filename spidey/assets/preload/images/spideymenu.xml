@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="spideymenu.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="spideymenu0000" x="100" y="100" width="511" height="543"/>
+	<SubTexture name="spideymenu0001" x="100" y="100" width="511" height="543"/>
+	<SubTexture name="spideymenu0002" x="711" y="100" width="510" height="543" frameX="0" frameY="0" frameWidth="511" frameHeight="543"/>
+	<SubTexture name="spideymenu0003" x="711" y="100" width="510" height="543" frameX="0" frameY="0" frameWidth="511" frameHeight="543"/>
+</TextureAtlas>

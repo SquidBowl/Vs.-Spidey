@@ -1,20 +1,26 @@
 {
-	"songs": [
-		["prologue", "spidey", [165, 0, 77]]
-	],
-
+	"storyName": "",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "prologue",
+	"startUnlocked": true,
 	"weekCharacters": [
 		"",
 		"bf",
 		"gf"
 	],
-	"weekBackground": "stage",
-
-	"storyName": "",
-	"weekBefore": "prologue]",
-	"weekName": "prologue",
-	"startUnlocked": true,
-
-	"hideStoryMode": false,
-	"hideFreeplay": false
+	"songs": [
+		[
+			"prologue",
+			"spidey",
+			[
+				165,
+				0,
+				77
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "prologue"
 }
