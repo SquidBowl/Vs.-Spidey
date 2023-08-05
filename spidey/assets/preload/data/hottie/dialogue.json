@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk 2",
+			"text": "YOU!!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tricky"
+		},
+		{
+			"expression": "talk",
+			"text": "BEEP.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Tricky, if you kick his shins again like  last time, im gonna leave.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spidey"
+		},
+		{
+			"expression": "talk3",
+			"text": "BUT...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tricky"
+		},
+		{
+			"expression": "talk",
+			"text": "No buts!! Can't you guys get along??",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spidey"
+		},
+		{
+			"expression": "talk 2",
+			"text": "ERM...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tricky"
+		},
+		{
+			"expression": "excited",
+			"text": "N O!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk 3",
+			"text": "dammit-",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spidey"
+		},
+		{
+			"expression": "talk 3",
+			"text": "Like, what's the one way you guys fix issues here?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spidey"
+		},
+		{
+			"expression": "talk",
+			"text": "beep!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "Ohhh!! Singing, huh?? Like, fine!!! Let's do that!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spidey"
+		}
+	]
+}

@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				37,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "firstDeath"
+		},
+		{
+			"offsets": [
+				37,
+				-20
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "deathLoop"
+		},
+		{
+			"offsets": [
+				39,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "deathConfirm"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/spidey_death",
+	"position": [
+		0,
+		50
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-50,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

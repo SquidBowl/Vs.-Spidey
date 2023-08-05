@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spidey",
+			"boxState": "normal",
+			"expression": "talk 2",
+			"text": "Woa, where are we, hun? ^_^"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tricky",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "SHHHHHHHHH SILLY"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tricky",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "IMMA SERENADE YOU, WATCH THIS."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spidey",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "omg that's like..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "spidey",
+			"boxState": "normal",
+			"expression": "talk 2",
+			"text": "so romantic"
+		}
+	]
+}

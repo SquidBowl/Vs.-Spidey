@@ -83,20 +83,15 @@ class CreditsState extends MusicBeatState
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
 			['Vs. Spidey Dev Team'],
 			['filiazpink',		'filiazpink',		'Director/VA/Artist/Animator/Writer',								'https://filiazpink.carrd.co/',			'F44BA7'],
-			['SquidBowl',		'SquidBowl',		'Programmer/Animator',														'https://squidbowl.carrd.co/',			'FF0097'],
+			['SquidBowl',		'SquidBowl',		'Programmer/Animator',												'https://squidbowl.carrd.co/',			'4A2E2A'],
 			['SNAP',			'SNAP',				'Charter',															'https://twitter.com/snapple_snap',		'71BD7A'],
-			['slonkyguts',		'slonkyguts',		'Artist/Animator',													'https://slonkyguts.newgrounds.com/',	'F82E20'],
-			['bunbunbwunnzy',	'bunbunbwunnzy',	'Artist/Animator',													'https://linktr.ee/bunbunbwunnzy',		'A200FF'],
-			['COG',				'cog',				'Artist/Animator',													'https://linktr.ee/princekittz',		'FBB7CD'],
-			['strawuwus',		'cy',				'Artist/Animator',													'https://www.instagram.com/strawuwus/',	'FD5EAE'],
+			['_dumbunni444_',	'bunbunbwunnzy',	'Artist',															'https://linktr.ee/bunbunbwunnzy',				'A200FF'],
+			['strawuwus',		'nothing',				'Artist',															'https://www.instagram.com/strawuwus/',			'FD5EAE'],
 			['Spaghettioz',		'Spaghettioz',		'Artist/Animator',													'https://twitter.com/Spaghettioz3',		'FF5475'],
-			['Ghosterstrudel',	'ghosterstrudel',	'Artist/Animator',													'https://instagram.com/ghoster.strudel?igshid=YmMyMTA2M2Y=',		'008B5F'],
-			['Zay_Sama',		'Zay_Sama',			'Artist',															'https://twitter.com/Zaye_Chan',		'6425E9'],
+			['Ghosterstrudel',	'ghosterstrudel',	'Artist',															'https://instagram.com/ghoster.strudel?igshid=YmMyMTA2M2Y=',		'008B5F'],
+			['Zay_Sama',		'Zay_Sama',			'Composer/Artist',													'https://twitter.com/Zaye_Chan',		'6425E9'],
 			['DUCK',			'duck',				'Charter',															'https://osu.ppy.sh/users/11223606',	'FFEA00'],
-			['VeeBlue',			'nothing',			'Charter',															'https://twitter.com/VeeBlueSama',		'FFEA00'],
-			['GhostDev',		'ghost',			'Composer',															'https://twitter.com/1cedFayg0',		'AE1C2D'],
-
-
+			['VeeBlue',			'nothing',			'Playtester',															'https://twitter.com/VeeBlueSama',		'FFEA00'],
 		];
 		
 		for(i in pisspoop){

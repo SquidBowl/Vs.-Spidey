@@ -1,37 +1,50 @@
 {
+	"dialogue_pos": "right",
 	"position": [
-		-60,
-		-110
+		-50,
+		-100
 	],
-	"dialogue_pos": "left",
 	"scale": 1,
-	"image": "Spidey_Dialogue_Sprites",
 	"animations": [
 		{
-			"idle_offsets": [
-				0,
-				0
-			],
+			"anim": "talk",
 			"loop_offsets": [
 				0,
+				3
+			],
+			"idle_offsets": [
+				-70,
 				0
 			],
-			"anim": "talk",
-			"idle_name": "SpideyD1",
-			"loop_name": "SpideyD1"
+			"loop_name": "SpideyD1",
+			"idle_name": "SpideyD1"
 		},
 		{
+			"idle_offsets": [
+				0,
+				30
+			],
+			"anim": "talk 2",
+			"loop_offsets": [
+				0,
+				10
+			],
+			"idle_name": "SpideyD2",
+			"loop_name": "SpideyD2"
+		},
+		{
+			"loop_name": "SpideyD3",
+			"idle_offsets": [
+				-70,
+				0
+			],
+			"idle_name": "SpideyD3",
+			"anim": "talk 3",
 			"loop_offsets": [
 				0,
 				0
-			],
-			"anim": "talk 2",
-			"idle_offsets": [
-				0,
-				-10
-			],
-			"loop_name": "SpideyD2",
-			"idle_name": "SpideyD2"
+			]
 		}
-	]
+	],
+	"image": "Spidey_Dialogue_Sprites"
 }
